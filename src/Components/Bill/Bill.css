@@ -1,0 +1,9 @@
+.bill-amount {
+  width: 50px;
+  height: 25px;
+  margin-left: 20px;
+  font-size: 15px;
+  background-color: ivory;
+  border: 1px solid #333;
+  outline: none;
+}

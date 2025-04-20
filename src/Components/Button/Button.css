@@ -1,0 +1,11 @@
+.reset-btn {
+  background-color: #0d2149;
+  color: #ffc914;
+  height: 35px;
+  transition: transform 1s;
+  cursor: pointer;
+}
+
+.reset-btn:hover {
+  transform: scale(1.2);
+}
