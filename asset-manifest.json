@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/buddy-tip-calculator/static/css/main.dde64c21.css",
+    "main.js": "/buddy-tip-calculator/static/js/main.ce4c415d.js",
+    "index.html": "/buddy-tip-calculator/index.html",
+    "main.dde64c21.css.map": "/buddy-tip-calculator/static/css/main.dde64c21.css.map",
+    "main.ce4c415d.js.map": "/buddy-tip-calculator/static/js/main.ce4c415d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dde64c21.css",
+    "static/js/main.ce4c415d.js"
+  ]
+}
